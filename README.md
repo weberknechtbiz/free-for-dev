@@ -612,6 +612,7 @@ Table of Contents
   * [formlets.com](https://formlets.com/) — Online forms, unlimited single page forms/month, 100 submissions/month, email notifications.
   * [formspark.io](https://formspark.io/) -  Form to Email service, free plan allows unlimited forms, 500 submissions per month, support by Customer assistance team.
   * [Formspree.io](https://formspree.io/) — Send email using an HTTP POST request. Free tier limits to 50 submissions per form per month.
+  * [Form.taxi](https://form.taxi/) — Endpoint for HTML forms submissions. With notifications, spam blocker and GDPR-compliant data processing. Free plan for basic usage.
   * [getform.io](https://getform.io/) - Form backend platform for designers and developers, 1 form, 100 submissions, Single file upload, 100MB file storage.
   * [Kwes.io](https://kwes.io/) - Feature rich form endpoint. Works great with static sites. Free plan includes up 1 website with up to 50 submissions per month.
   * [smartforms.dev](https://smartforms.dev/) - Powerful and easy form backend for your website, forever free plan allows 50 submissions per month, 100MB file storage, Zapier integration, CSV/JSON export, custom redirect, custom response page, Telegram & Slack bot, single email notifications.
